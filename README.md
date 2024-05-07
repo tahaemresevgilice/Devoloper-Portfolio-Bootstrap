@@ -3,10 +3,7 @@
 
 Merhaba! Bootstrap ile HTML ve CSS kullanarak oluşturduğum geliştirici portföyü için bir tutorial hazırladım. Bu tutorial, modern ve profesyonel bir portföy sitesini adım adım oluşturmayı öğretiyor. İşte yeni projeniz veya portföyünüz için mükemmel bir başlangıç!
 
----
-
 ## Proje Açıklaması
-
 Bu proje, Html Css ve Bootstrap kullanılarak oluşturulmuş bir portdolio sitesi tasarımı içerir. Merhaba! Bootstrap ile HTML ve CSS kullanarak oluşturduğum geliştirici portföyü için bir tutorial hazırladım. Bu tutorial, modern ve profesyonel bir portföy sitesini adım adım oluşturmayı öğretiyor. İşte yeni projeniz veya portföyünüz için mükemmel bir başlangıç!
 ---
 
