@@ -4,7 +4,7 @@
 Merhaba! Bootstrap ile HTML ve CSS kullanarak oluşturduğum geliştirici portföyü için bir tutorial hazırladım. Bu tutorial, modern ve profesyonel bir portföy sitesini adım adım oluşturmayı öğretiyor. İşte yeni projeniz veya portföyünüz için mükemmel bir başlangıç!
 
 ## Proje Açıklaması
-Bu proje, Html Css ve Bootstrap kullanılarak oluşturulmuş bir portdolio sitesi tasarımı içerir. Merhaba! Bootstrap ile HTML ve CSS kullanarak oluşturduğum geliştirici portföyü için bir tutorial hazırladım. Bu tutorial, modern ve profesyonel bir portföy sitesini adım adım oluşturmayı öğretiyor. İşte yeni projeniz veya portföyünüz için mükemmel bir başlangıç!
+Bu proje, Html Css ve Bootstrap kullanılarak oluşturulmuş bir portdolio sitesi tasarımı içerir. Bootstrap ile HTML ve CSS kullanarak oluşturduğum geliştirici portföyü için bir tutorial hazırladım. Bu tutorial, modern ve profesyonel bir portföy sitesini adım adım oluşturmayı öğretiyor. İşte yeni projeniz veya portföyünüz için mükemmel bir başlangıç!
 ---
 
 ## Projedeki Teknolojiler
@@ -13,8 +13,6 @@ Bu proje, Html Css ve Bootstrap kullanılarak oluşturulmuş bir portdolio sites
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="laravel" width="40" height="40"/> </a> 
 </p>
 
 
